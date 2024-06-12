@@ -27,10 +27,13 @@ a:link{
 }
 
 /*zajedničko*/
+@font-face {
+font-family: "MagdalenaKajic";
+src:url("font/MagdalenaKajic.ttf");
+}
 h1{
 	font-size:42px;
     font-family: "MagdalenaKajic";
-    src:url("font/MagdalenaKajic.ttf") format('truetype'); 
 }
 h2{
 	font-family: "Montserrat", sans-serif;
